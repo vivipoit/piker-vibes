@@ -31,6 +31,8 @@ This is a single-user, local-only tool. There's no server and no auth. It reads 
 - **Cross-page controls in the header**  
   An account filter (with All/Brazil/US region presets), a USD/BRL display-currency toggle, and an editable exchange rate used for the conversion (defaults to 5, because that's easy).
 
+Take a look at the [screenshots](screenshots) directory if you want to see images of the featuers described above. All images were made with dummy data, of course.
+
 ## How it works
 
 ```
