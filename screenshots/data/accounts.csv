@@ -1,0 +1,4 @@
+account_id,bank,account_name,account_type,currency
+acc-schwab,Schwab,Brokerage,brokerage,USD
+acc-ally,Ally,Brokerage,brokerage,USD
+acc-agora,Ágora,Investimentos,brokerage,BRL

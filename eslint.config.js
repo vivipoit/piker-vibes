@@ -61,6 +61,13 @@ export default [
       globals: globals.node,
     },
   },
+  // The screenshots/ dummy-data generator runs under Node, not the browser.
+  {
+    files: ['screenshots/**/*.mjs'],
+    languageOptions: {
+      globals: globals.node,
+    },
+  },
   // Playwright specs run under Node but drive/assert against browser APIs
   // (Page, DOM text) through @playwright/test's own types.
   {
