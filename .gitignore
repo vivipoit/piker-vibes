@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+data/*.csv
+data-chaotic
+scripts
+playwright-report
+test-results
+blob-report
+analysis
+CLAUDE.md
